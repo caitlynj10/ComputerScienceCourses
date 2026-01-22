@@ -1,1 +1,1 @@
-Hi! My name is Caitlyn Jones, and I am a senior at Brandeis University. I am double majoring in Computer Science and Applied Mathematics. My future career goals focus on software engineering with a speciality in game design, web development, and game development. Within this profile are the various projects I have created, whether that be personal projects or assignments from school.
+
